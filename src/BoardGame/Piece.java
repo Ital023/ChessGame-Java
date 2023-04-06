@@ -1,3 +1,7 @@
+package BoardGame;
+
+import BoardGame.Board;
+
 public class Piece {
     protected Position position;
     private Board board;
